@@ -1,0 +1,22 @@
+{
+  "name": "some-patterns",
+  "version": "1.0.0",
+  "description": "Some useful patterns for reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/shivangg/some-patterns.git",
+  "keywords": [
+    "patterns"
+  ],
+  "author": "shivangg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivangg/some-patterns/issues"
+  },
+  "homepage": "https://github.com/shivangg/some-patterns#readme",
+  "dependencies": {
+    "eslint": "^7.11.0"
+  }
+}
